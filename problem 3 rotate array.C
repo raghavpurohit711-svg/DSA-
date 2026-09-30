@@ -9,6 +9,7 @@ void reverse(int arr[], int start, int end){
     start++;
     end++;
 }
+
 void rotate(int arr[], int n, int d){
     d%=n;
     if (d==0) return;
