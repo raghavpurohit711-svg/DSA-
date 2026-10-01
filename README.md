@@ -1,6 +1,6 @@
 # DSA 🧠
 
-This repository is where I’m keeping track of my **DSA journey with Python**.
+This repository is where I’m keeping track of my **DSA journey**.
 
 I’m learning different data structures and algorithms, implementing them myself, and solving problems along the way. I’m not trying to make this repo look perfect — I’m using it to **learn, practice, make mistakes, and get better**.
 
@@ -30,11 +30,6 @@ I’m trying to understand **why** a solution works instead of just memorizing i
 
 Some of the code here might change or get improved later, and that's part of the point. This repo is basically a record of how my DSA skills are developing over time.
 
-## Language
-
-🐍 **Python**
-
-Python is currently my main language for DSA practice.
 
 ## Why DSA?
 
