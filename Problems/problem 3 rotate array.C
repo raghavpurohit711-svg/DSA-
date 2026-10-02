@@ -7,6 +7,6 @@ int main(){
         arr[-i]=arr[-i+1];
     }
     for(int i=0;i<6;i++){
-        
+        printf("%d", i);
     }
 }
